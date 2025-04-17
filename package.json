@@ -9,7 +9,6 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "boostrap": "^2.0.0",
     "bootstrap": "^5.3.5",
     "gray-matter": "^4.0.3",
     "next": "15.3.1",

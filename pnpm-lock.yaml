@@ -8,9 +8,6 @@ importers:
 
   .:
     dependencies:
-      boostrap:
-        specifier: ^2.0.0
-        version: 2.0.0
       bootstrap:
         specifier: ^5.3.5
         version: 5.3.5(@popperjs/core@2.11.8)
@@ -718,10 +715,6 @@ packages:
 
   balanced-match@1.0.2:
     resolution: {integrity: sha512-3oSeUO0TMV67hN1AmbXsK4yaqU7tjiHlbxRDZOpH0KW9+CeX4bRAaX0Anxt0tx2MrpRpWwQaPwIlISEJhYU5Pw==}
-
-  boostrap@2.0.0:
-    resolution: {integrity: sha512-JEeFMOweKeGXEM9rt95eaVISOkluG9aKcl0jQCETOVH9jynCZxuBZe2oWgcWJpj5wqYWZl625SnW7OgHT2Ineg==}
-    deprecated: Package no longer supported. Contact support@npmjs.com for more info.
 
   bootstrap@5.3.5:
     resolution: {integrity: sha512-ct1CHKtiobRimyGzmsSldEtM03E8fcEX4Tb3dGXz1V8faRwM50+vfHwTzOxB3IlKO7m+9vTH3s/3C6T2EAPeTA==}
@@ -2671,8 +2664,6 @@ snapshots:
   bail@2.0.2: {}
 
   balanced-match@1.0.2: {}
-
-  boostrap@2.0.0: {}
 
   bootstrap@5.3.5(@popperjs/core@2.11.8):
     dependencies:

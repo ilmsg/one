@@ -5,7 +5,7 @@ export const Sidebar = async function () {
     const posts = await getAllPosts()
     return (
         <>
-            <h2>blog.ilmsg.in.th</h2>
+            <Link href="https://one.ilmsg.in.th"><h2>one.ilmsg.in.th</h2></Link>
             <ul className="list-group">
                 <li key={99} className="list-group-item"><Link href="/">⛪ Home</Link></li>
                 {/* <li key={98} className="list-group-item"><Link href="/posts">⛺ Posts</Link></li> */}
