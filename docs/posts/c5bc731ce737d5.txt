@@ -1,0 +1,147 @@
+1:"$Sreact.fragment"
+3:I[831,[],""]
+4:I[8307,[],""]
+6:I[9757,[],"MetadataBoundary"]
+8:I[9757,[],"OutletBoundary"]
+b:I[8475,[],"AsyncMetadataOutlet"]
+d:I[9757,[],"ViewportBoundary"]
+f:I[8458,[],""]
+:HL["/_next/static/css/47a2cdd79f9d68e5.css","style"]
+:HL["/_next/static/css/77ddd172f309e09a.css","style"]
+0:{"P":null,"b":"4kAwA16l-8JOSuznxDJpc","p":"","c":["","posts","c5bc731ce737d5"],"i":false,"f":[[["",{"children":["posts",{"children":[["slug","c5bc731ce737d5","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/47a2cdd79f9d68e5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/77ddd172f309e09a.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":["$","div",null,{"className":"container-fluid","children":["$","div",null,{"className":"row","children":[["$","div",null,{"className":"col-sm-3","style":{"fontSize":12.5},"children":"$L2"}],["$","div",null,{"className":"col-sm-9","children":[["$","div",null,{"className":"container-fluid","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],";"]}]]}]}]}]}]]}],{"children":["posts",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","c5bc731ce737d5","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",["$","$L6",null,{"children":"$L7"}],null,["$","$L8",null,{"children":["$L9","$La",["$","$Lb",null,{"promise":"$@c"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","3344uJz9KpqXHC8Fw4hH8",{"children":[["$","$Ld",null,{"children":"$Le"}],null]}],null]}],false]],"m":"$undefined","G":["$f","$undefined"],"s":false,"S":true}
+10:"$Sreact.suspense"
+11:I[8475,[],"AsyncMetadata"]
+7:["$","$10",null,{"fallback":null,"children":["$","$L11",null,{"promise":"$@12"}]}]
+13:I[70,["177","static/chunks/app/layout-bef829f3c2619dcf.js"],""]
+a:null
+2:[["$","h2",null,{"children":"blog.ilmsg.in.th"}],["$","ul",null,{"className":"list-group","children":[["$","li","99",{"className":"list-group-item","children":["$","$L13",null,{"href":"/","children":"⛪ Home"}]}],[["$","li","c5bc731ce737e7",{"className":"list-group-item","children":["📚"," ",["$","span",null,{"className":"badge bg-primary","children":"book"}]," ",["$","$L13",null,{"href":"/posts/c5bc731ce737e7","className":"link-underline link-underline-opacity-0","children":"Think and Grow Rich"}]]}],["$","li","c5bc731ce737e6",{"className":"list-group-item","children":["📚"," ",["$","span",null,{"className":"badge bg-primary","children":"book"}]," ",["$","$L13",null,{"href":"/posts/c5bc731ce737e6","className":"link-underline link-underline-opacity-0","children":"Rich Dad Poor Dad"}]]}],["$","li","c5bc731ce737e5",{"className":"list-group-item","children":["📚"," ",["$","span",null,{"className":"badge bg-primary","children":"book"}]," ",["$","$L13",null,{"href":"/posts/c5bc731ce737e5","className":"link-underline link-underline-opacity-0","children":"The Power of Now"}]]}],["$","li","c5bc731ce737e4",{"className":"list-group-item","children":["👻"," ",["$","span",null,{"className":"badge bg-primary","children":"book"}]," ",["$","$L13",null,{"href":"/posts/c5bc731ce737e4","className":"link-underline link-underline-opacity-0","children":"Getting Things Done (GTD)"}]]}],["$","li","c5bc731ce737e3",{"className":"list-group-item","children":["👻"," ",["$","span",null,{"className":"badge bg-primary","children":"book"}]," ",["$","$L13",null,{"href":"/posts/c5bc731ce737e3","className":"link-underline link-underline-opacity-0","children":"Make Your Bed"}]]}],["$","li","c5bc731ce737e2",{"className":"list-group-item","children":["🤖"," ",["$","span",null,{"className":"badge bg-primary","children":"book"}]," ",["$","$L13",null,{"href":"/posts/c5bc731ce737e2","className":"link-underline link-underline-opacity-0","children":"The 4-Hour Workweek"}]]}],["$","li","c5bc731ce737e1",{"className":"list-group-item","children":["🤖"," ",["$","span",null,{"className":"badge bg-primary","children":"book"}]," ",["$","$L13",null,{"href":"/posts/c5bc731ce737e1","className":"link-underline link-underline-opacity-0","children":"Who Moved My Cheese?"}]]}],["$","li","c5bc731ce737e0",{"className":"list-group-item","children":["🤖"," ",["$","span",null,{"className":"badge bg-primary","children":"book"}]," ",["$","$L13",null,{"href":"/posts/c5bc731ce737e0","className":"link-underline link-underline-opacity-0","children":"Deep Work: Rules for Focused Success in a Distracted World"}]]}],["$","li","c5bc731ce737d9",{"className":"list-group-item","children":["🤖"," ",["$","span",null,{"className":"badge bg-primary","children":"book"}]," ",["$","$L13",null,{"href":"/posts/c5bc731ce737d9","className":"link-underline link-underline-opacity-0","children":"How to Stop Worrying and Start Living"}]]}],["$","li","c5bc731ce737d8",{"className":"list-group-item","children":["🤖"," ",["$","span",null,{"className":"badge bg-primary","children":"book"}]," ",["$","$L13",null,{"href":"/posts/c5bc731ce737d8","className":"link-underline link-underline-opacity-0","children":"Act Like a Lady, Think Like a Man"}]]}],["$","li","c5bc731ce737d7",{"className":"list-group-item","children":["🤖"," ",["$","span",null,{"className":"badge bg-primary","children":"book"}]," ",["$","$L13",null,{"href":"/posts/c5bc731ce737d7","className":"link-underline link-underline-opacity-0","children":"The 7 Habits of Highly Effective People"}]]}],["$","li","c5bc731ce737d5",{"className":"list-group-item","children":["😊"," ",["$","span",null,{"className":"badge bg-primary","children":"book"}]," ",["$","$L13",null,{"href":"/posts/c5bc731ce737d5","className":"link-underline link-underline-opacity-0","children":"Take back your time"}]]}],["$","li","c03054919d6766",{"className":"list-group-item","children":["🤖"," ",["$","span",null,{"className":"badge bg-primary","children":"book"}]," ",["$","$L13",null,{"href":"/posts/c03054919d6766","className":"link-underline link-underline-opacity-0","children":"The 5 Second Rule"}]]}],["$","li","c03054919d6763",{"className":"list-group-item","children":["🤖"," ",["$","span",null,{"className":"badge bg-primary","children":"book"}]," ",["$","$L13",null,{"href":"/posts/c03054919d6763","className":"link-underline link-underline-opacity-0","children":"The 5 Second Rule"}]]}],["$","li","c03054919d6762",{"className":"list-group-item","children":["🐕"," ",["$","span",null,{"className":"badge bg-primary","children":"book"}]," ",["$","$L13",null,{"href":"/posts/c03054919d6762","className":"link-underline link-underline-opacity-0","children":"Data Structures & Algorithms Cheat Sheet"}]]}],["$","li","98034aa5671421",{"className":"list-group-item","children":["💬"," ",["$","span",null,{"className":"badge bg-primary","children":"book"}]," ",["$","$L13",null,{"href":"/posts/98034aa5671421","className":"link-underline link-underline-opacity-0","children":"Chart Cheat Sheet"}]]}],["$","li","98034aa5671420",{"className":"list-group-item","children":["💬"," ",["$","span",null,{"className":"badge bg-primary","children":"book"}]," ",["$","$L13",null,{"href":"/posts/98034aa5671420","className":"link-underline link-underline-opacity-0","children":"8 Disciplines"}]]}],["$","li","98034aa5671419",{"className":"list-group-item","children":["💬"," ",["$","span",null,{"className":"badge bg-primary","children":"book"}]," ",["$","$L13",null,{"href":"/posts/98034aa5671419","className":"link-underline link-underline-opacity-0","children":"Get Your Shit Together"}]]}],["$","li","98034aa5671418",{"className":"list-group-item","children":["💬"," ",["$","span",null,{"className":"badge bg-primary","children":"book"}]," ",["$","$L13",null,{"href":"/posts/98034aa5671418","className":"link-underline link-underline-opacity-0","children":"Data Analyst"}]]}],["$","li","913edb41bb27d4",{"className":"list-group-item","children":["👻"," ",["$","span",null,{"className":"badge bg-primary","children":"book"}]," ",["$","$L13",null,{"href":"/posts/913edb41bb27d4","className":"link-underline link-underline-opacity-0","children":"The $100 Startup"}]]}],["$","li","71a40e60fab23f",{"className":"list-group-item","children":["🕌"," ",["$","span",null,{"className":"badge bg-primary","children":"book"}]," ",["$","$L13",null,{"href":"/posts/71a40e60fab23f","className":"link-underline link-underline-opacity-0","children":"8 ข้อคิดจากหนังสือ The Startup Mindset"}]]}],["$","li","5d0eb6b5d79ef5",{"className":"list-group-item","children":["💬"," ",["$","span",null,{"className":"badge bg-primary","children":"book"}]," ",["$","$L13",null,{"href":"/posts/5d0eb6b5d79ef5","className":"link-underline link-underline-opacity-0","children":"Disrupt Yourself"}]]}],["$","li","5d0eb6b5d79ef4",{"className":"list-group-item","children":["💬"," ",["$","span",null,{"className":"badge bg-primary","children":"book"}]," ",["$","$L13",null,{"href":"/posts/5d0eb6b5d79ef4","className":"link-underline link-underline-opacity-0","children":"How to Read Any Room"}]]}],["$","li","5d0eb6b5d79ef3",{"className":"list-group-item","children":["💬"," ",["$","span",null,{"className":"badge bg-primary","children":"book"}]," ",["$","$L13",null,{"href":"/posts/5d0eb6b5d79ef3","className":"link-underline link-underline-opacity-0","children":"Atomic Habits"}]]}],["$","li","5d0eb6b5d79ef2",{"className":"list-group-item","children":["💬"," ",["$","span",null,{"className":"badge bg-primary","children":"book"}]," ",["$","$L13",null,{"href":"/posts/5d0eb6b5d79ef2","className":"link-underline link-underline-opacity-0","children":"หนังสือการเงิน 7 เล่ม"}]]}],["$","li","5d0eb6b5d79ef1",{"className":"list-group-item","children":["💬"," ",["$","span",null,{"className":"badge bg-primary","children":"book"}]," ",["$","$L13",null,{"href":"/posts/5d0eb6b5d79ef1","className":"link-underline link-underline-opacity-0","children":"เคียร์เคอการ์ด ฉบับกระชับ"}]]}],["$","li","186a50e7ae7288",{"className":"list-group-item","children":["😺"," ",["$","span",null,{"className":"badge bg-primary","children":"book"}]," ",["$","$L13",null,{"href":"/posts/186a50e7ae7288","className":"link-underline link-underline-opacity-0","children":"Startup Mindset"}]]}],["$","li","c5bc731ce737d4",{"className":"list-group-item","children":["😊"," ",["$","span",null,{"className":"badge bg-primary","children":"idea"}]," ",["$","$L13",null,{"href":"/posts/c5bc731ce737d4","className":"link-underline link-underline-opacity-0","children":"(RBAC) in Next.js"}]]}],["$","li","c03054919d6765",{"className":"list-group-item","children":["😊"," ",["$","span",null,{"className":"badge bg-primary","children":"idea"}]," ",["$","$L13",null,{"href":"/posts/c03054919d6765","className":"link-underline link-underline-opacity-0","children":"Concurrency in Go Web Applications"}]]}],["$","li","c03054919d6764",{"className":"list-group-item","children":["😊"," ",["$","span",null,{"className":"badge bg-primary","children":"idea"}]," ",["$","$L13",null,{"href":"/posts/c03054919d6764","className":"link-underline link-underline-opacity-0","children":"best practices for multi tenant authorization"}]]}],["$","li","982b3df1525faa",{"className":"list-group-item","children":["🎃"," ",["$","span",null,{"className":"badge bg-primary","children":"idea"}]," ",["$","$L13",null,{"href":"/posts/982b3df1525faa","className":"link-underline link-underline-opacity-0","children":"Your Money or Your Life"}]]}],["$","li","98034aa5671417",{"className":"list-group-item","children":["😊"," ",["$","span",null,{"className":"badge bg-primary","children":"idea"}]," ",["$","$L13",null,{"href":"/posts/98034aa5671417","className":"link-underline link-underline-opacity-0","children":"Master The Art of Negotiation"}]]}],["$","li","98034aa5671416",{"className":"list-group-item","children":["😊"," ",["$","span",null,{"className":"badge bg-primary","children":"idea"}]," ",["$","$L13",null,{"href":"/posts/98034aa5671416","className":"link-underline link-underline-opacity-0","children":"การรับมือกับความท้าทายในชีวิต"}]]}],["$","li","844e6b801e6d29",{"className":"list-group-item","children":["📌"," ",["$","span",null,{"className":"badge bg-primary","children":"idea"}]," ",["$","$L13",null,{"href":"/posts/844e6b801e6d29","className":"link-underline link-underline-opacity-0","children":"Die With Zero"}]]}],["$","li","74e27bf78b3819",{"className":"list-group-item","children":["🎃"," ",["$","span",null,{"className":"badge bg-primary","children":"idea"}]," ",["$","$L13",null,{"href":"/posts/74e27bf78b3819","className":"link-underline link-underline-opacity-0","children":"The Millionaire Fastlane"}]]}],["$","li","c5bc731ce737d6",{"className":"list-group-item","children":["🤖"," ",["$","span",null,{"className":"badge bg-primary","children":"info"}]," ",["$","$L13",null,{"href":"/posts/c5bc731ce737d6","className":"link-underline link-underline-opacity-0","children":"How to learn anything 5x faster"}]]}],["$","li","ed5595feec2c7d",{"className":"list-group-item","children":["🤖"," ",["$","span",null,{"className":"badge bg-primary","children":"tech"}]," ",["$","$L13",null,{"href":"/posts/ed5595feec2c7d","className":"link-underline link-underline-opacity-0","children":"Key Performance Indicators - KPIs"}]]}],["$","li","ed5595feec2c7c",{"className":"list-group-item","children":["🤖"," ",["$","span",null,{"className":"badge bg-primary","children":"tech"}]," ",["$","$L13",null,{"href":"/posts/ed5595feec2c7c","className":"link-underline link-underline-opacity-0","children":"Frontend Performance Cheatsheet"}]]}],["$","li","e8107ffecff144",{"className":"list-group-item","children":["🐡"," ",["$","span",null,{"className":"badge bg-primary","children":"tech"}]," ",["$","$L13",null,{"href":"/posts/e8107ffecff144","className":"link-underline link-underline-opacity-0","children":"Next.js ร่วมกับ gray-matter"}]]}],["$","li","c5bc731ce737e9",{"className":"list-group-item","children":["📚"," ",["$","span",null,{"className":"badge bg-primary","children":"tech"}]," ",["$","$L13",null,{"href":"/posts/c5bc731ce737e9","className":"link-underline link-underline-opacity-0","children":"6 Key Business Frameworks Matrix"}]]}],["$","li","c5bc731ce737e8",{"className":"list-group-item","children":["📚"," ",["$","span",null,{"className":"badge bg-primary","children":"tech"}]," ",["$","$L13",null,{"href":"/posts/c5bc731ce737e8","className":"link-underline link-underline-opacity-0","children":"Chapter 01"}]]}],["$","li","c5bc731ce737d3",{"className":"list-group-item","children":["😊"," ",["$","span",null,{"className":"badge bg-primary","children":"tech"}]," ",["$","$L13",null,{"href":"/posts/c5bc731ce737d3","className":"link-underline link-underline-opacity-0","children":"Concurrency in Go Web Applications"}]]}],["$","li","c03054919d6761",{"className":"list-group-item","children":["🐕"," ",["$","span",null,{"className":"badge bg-primary","children":"tech"}]," ",["$","$L13",null,{"href":"/posts/c03054919d6761","className":"link-underline link-underline-opacity-0","children":"Essential Python Libraries for Data Science in 2025!"}]]}],["$","li","c03054919d6760",{"className":"list-group-item","children":["👋"," ",["$","span",null,{"className":"badge bg-primary","children":"tech"}]," ",["$","$L13",null,{"href":"/posts/c03054919d6760","className":"link-underline link-underline-opacity-0","children":"Prompt Engineering Techniques"}]]}],["$","li","9a626d1cda8653",{"className":"list-group-item","children":["💨"," ",["$","span",null,{"className":"badge bg-primary","children":"tech"}]," ",["$","$L13",null,{"href":"/posts/9a626d1cda8653","className":"link-underline link-underline-opacity-0","children":"TodoList ด้วย React, TypeScript, Firestore และ DaisyUI"}]]}],["$","li","961ddacbc63b92",{"className":"list-group-item","children":["🕌"," ",["$","span",null,{"className":"badge bg-primary","children":"tech"}]," ",["$","$L13",null,{"href":"/posts/961ddacbc63b92","className":"link-underline link-underline-opacity-0","children":"The Ultimate API Learning Roadmap"}]]}],["$","li","804f31b1ed61e7",{"className":"list-group-item","children":["👋"," ",["$","span",null,{"className":"badge bg-primary","children":"tech"}]," ",["$","$L13",null,{"href":"/posts/804f31b1ed61e7","className":"link-underline link-underline-opacity-0","children":"show me the cat"}]]}],["$","li","745b52707bd1f8",{"className":"list-group-item","children":["🐷"," ",["$","span",null,{"className":"badge bg-primary","children":"tech"}]," ",["$","$L13",null,{"href":"/posts/745b52707bd1f8","className":"link-underline link-underline-opacity-0","children":"Running Lean: Iterate from Plan A to a Plan That Works"}]]}],["$","li","5db5fceb39abb2",{"className":"list-group-item","children":["🦁"," ",["$","span",null,{"className":"badge bg-primary","children":"tech"}]," ",["$","$L13",null,{"href":"/posts/5db5fceb39abb2","className":"link-underline link-underline-opacity-0","children":"Cheatsheet On Database Performance"}]]}],["$","li","43d0123ac6e4e9",{"className":"list-group-item","children":["👻"," ",["$","span",null,{"className":"badge bg-primary","children":"tech"}]," ",["$","$L13",null,{"href":"/posts/43d0123ac6e4e9","className":"link-underline link-underline-opacity-0","children":"Data Analytics"}]]}],["$","li","43d0123ac6e4e8",{"className":"list-group-item","children":["👻"," ",["$","span",null,{"className":"badge bg-primary","children":"tech"}]," ",["$","$L13",null,{"href":"/posts/43d0123ac6e4e8","className":"link-underline link-underline-opacity-0","children":"Chapter 02"}]]}],["$","li","423e4444fe4bdf",{"className":"list-group-item","children":["📌"," ",["$","span",null,{"className":"badge bg-primary","children":"tech"}]," ",["$","$L13",null,{"href":"/posts/423e4444fe4bdf","className":"link-underline link-underline-opacity-0","children":"One-Page Business Plan"}]]}],["$","li","3265bdd2450fc7",{"className":"list-group-item","children":["🌟"," ",["$","span",null,{"className":"badge bg-primary","children":"tech"}]," ",["$","$L13",null,{"href":"/posts/3265bdd2450fc7","className":"link-underline link-underline-opacity-0","children":" วิธีทำน้ำอบไทย"}]]}]]]}]]
+14:T1f17,<p><img src="/images/take-back-your-time.png" alt="alt text"></p>
+<p>เทคนิคการบริหารเวลา 12 ข้อ</p>
+<ol>
+<li>
+<p><strong>Timeboxing (โดย Marc Zao-Sanders):</strong></p>
+<ul>
+<li>แบ่งวันของคุณออกเป็นช่วงเวลาต่างๆ</li>
+<li>กำหนดงานเฉพาะสำหรับแต่ละช่วงเวลา</li>
+<li>ในช่วงเวลานั้น ให้ทำงานที่กำหนดไว้เท่านั้น อย่าทำอย่างอื่น</li>
+<li>ตัวอย่างตารางเวลา:
+<ul>
+<li>8:00 - 11:00 น.: ทำงานที่ต้องใช้สมาธิสูง (Deep Work)</li>
+<li>11:00 - 11:30 น.: ทำงานด่วนเล็กๆ น้อยๆ (Quick Tasks)</li>
+<li>11:30 น. - 12:30 น.: พัก (Break)</li>
+<li>12:30 - 14:00 น.: ทำงานที่มีความสำคัญสูง (High-Priority Tasks)</li>
+<li>14:00 - 16:00 น.: เวลาสำหรับการทำงานร่วมกับผู้อื่น (Collaboration Time)</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Pomodoro Technique (โดย Francesco Cirillo):</strong></p>
+<ul>
+<li>เลือกงานที่ต้องการจะทำ</li>
+<li>ตั้งเวลาทำงาน 25 นาที</li>
+<li>ทำงานนั้นจนกว่าเวลาจะหมด</li>
+<li>พัก 5 นาที</li>
+<li>ทำซ้ำขั้นตอนนี้</li>
+</ul>
+</li>
+<li>
+<p><strong>2-Minute Rule (โดย David Allen):</strong></p>
+<ul>
+<li>หากมีงานใดที่สามารถทำเสร็จได้ภายใน 2 นาที ให้ทำทันที อย่ารอช้า</li>
+</ul>
+</li>
+<li>
+<p><strong>Kanban Board (โดย Taiichi Ohno):</strong></p>
+<ul>
+<li>จัดหมวดหมู่งานต่างๆ ให้เห็นภาพความคืบหน้า</li>
+<li>แบ่งงานออกเป็นคอลัมน์ เช่น "สิ่งที่ต้องทำ" (To-Do), "กำลังทำ" (Working On), และ "เสร็จแล้ว" (Completed) เพื่อติดตามสถานะของงาน</li>
+</ul>
+</li>
+<li>
+<p><strong>1-3-5 Rule:</strong></p>
+<ul>
+<li>เมื่อวางแผนสำหรับวันของคุณ ให้เลือกทำ:
+<ul>
+<li>1 งานใหญ่ (Big Task)</li>
+<li>3 งานขนาดกลาง (Medium Tasks)</li>
+<li>5 งานเล็ก (Small Tasks)</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Eat the Frog (โดย Brian Tracy):</strong></p>
+<ul>
+<li>ทำงานที่ท้าทายที่สุดหรือยากที่สุดของคุณเป็นอย่างแรกในตอนเช้า</li>
+</ul>
+</li>
+<li>
+<p><strong>Flowtime Technique (โดย Zoe Read-Bivens):</strong></p>
+<ul>
+<li>ทำงานไปเรื่อยๆ จนกว่าคุณจะเริ่มเสียสมาธิ (ไม่ต้องตั้งเวลา)</li>
+<li>จดบันทึกเวลาที่คุณใช้ไป (นั่นคือ "flowtime" หรือช่วงเวลาที่คุณมีสมาธิตามธรรมชาติ)</li>
+<li>พักสั้นๆ (ประมาณ 5-10 นาที)</li>
+<li>ปรับเปลี่ยนช่วงเวลาการทำงานในครั้งต่อไปตาม flowtime ที่คุณบันทึกไว้</li>
+</ul>
+</li>
+<li>
+<p><strong>80/20 Rule (โดย Vilfredo Pareto):</strong></p>
+<ul>
+<li>หลักการนี้กล่าวว่า 80% ของผลลัพธ์มักจะมาจาก 20% ของความพยายาม</li>
+<li>ดังนั้น ให้มุ่งเน้นไปที่ 20% ของงานที่สำคัญที่สุดซึ่งจะให้ผลลัพธ์ส่วนใหญ่</li>
+<li>พยายามลดหรือกำจัด 80% ของงานที่ไม่สำคัญซึ่งให้ผลลัพธ์เพียง 20%</li>
+</ul>
+</li>
+<li>
+<p><strong>Getting Things Done (GTD) (โดย David Allen):</strong></p>
+<ul>
+<li>เป็นระบบการจัดการงาน 5 ขั้นตอน:
+<ul>
+<li><strong>Capture (รวบรวม):</strong> รวบรวมทุกอย่างที่อยู่ในความสนใจของคุณ</li>
+<li><strong>Clarify (ประมวลผล):</strong> ทำความเข้าใจว่าสิ่งนั้นคืออะไรและต้องทำอะไรกับมัน</li>
+<li><strong>Organize (จัดระเบียบ):</strong> จัดเก็บข้อมูลหรือกำหนดงานให้อยู่ในที่ที่เหมาะสม</li>
+<li><strong>Reflect (ทบทวน):</strong> ตรวจสอบรายการต่างๆ ของคุณเป็นประจำ</li>
+<li><strong>Engage (ลงมือทำ):</strong> เริ่มทำงานตามที่ได้จัดระเบียบไว้</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Warren Buffett's 25/5 Rule:</strong></p>
+<ul>
+<li>เขียนรายการเป้าหมายหรือโครงการริเริ่มที่สำคัญที่สุดของคุณ 25 ข้อ</li>
+<li>จัดลำดับความสำคัญตามความสำคัญ</li>
+<li>วงกลม 5 อันดับแรก</li>
+<li>มุ่งเน้นทำเฉพาะ 5 อันดับแรกนั้นเท่านั้น</li>
+<li>หลีกเลี่ยงการทำงานใน 20 ข้อที่เหลือโดยสิ้นเชิง จนกว่า 5 ข้อแรกจะเสร็จสิ้น</li>
+</ul>
+</li>
+<li>
+<p><strong>Eisenhower Matrix:</strong></p>
+<ul>
+<li>จัดประเภทงานตามความเร่งด่วนและความสำคัญ:
+<ul>
+<li><strong>เร่งด่วนและสำคัญ (Urgent, Important):</strong> ทำทันที (DO)</li>
+<li><strong>ไม่เร่งด่วนแต่สำคัญ (Not Urgent, Important):</strong> กำหนดเวลาทำ (SCHEDULE)</li>
+<li><strong>เร่งด่วนแต่ไม่สำคัญ (Urgent, Not Important):</strong> มอบหมายให้ผู้อื่นทำ (DELEGATE)</li>
+<li><strong>ไม่เร่งด่วนและไม่สำคัญ (Not Urgent, Not Important):</strong> ลบทิ้ง (DELETE)</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Task Batching (โดย Cal Newport):</strong></p>
+<ul>
+<li>รวบรวมงานประเภทคล้ายๆ กันไว้ทำด้วยกัน</li>
+<li>กำหนดเวลาเพื่อทำงานเหล่านั้นทั้งหมดในคราวเดียว</li>
+<li>ทำงานที่จัดกลุ่มไว้ให้เสร็จในเซสชันเดียว</li>
+</ul>
+</li>
+</ol>
+<p>เทคนิคเหล่านี้เป็นเครื่องมือที่ช่วยให้คุณสามารถบริหารจัดการเวลาและทำงานได้อย่างมีประสิทธิภาพมากขึ้น ซึ่งนำเสนอโดย Amy Gibson</p>
+5:[["$","h2",null,{"children":"Take back your time"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$14"}}]]
+e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+12:{"metadata":[["$","title","0",{"children":"one.ilmsg.in.th"}],["$","meta","1",{"name":"description","content":"weblog ilmsg.in.th"}],["$","link","2",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}]],"error":null,"digest":"$undefined"}
+c:{"metadata":"$12:metadata","error":null,"digest":"$undefined"}
